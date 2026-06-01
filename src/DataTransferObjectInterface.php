@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Phprise\DataTransferObject\Contract;
+namespace Phprise\Dto\Contract;
 
 use JsonSerializable;
 use Phprise\Common\Contract\Arrayable;
